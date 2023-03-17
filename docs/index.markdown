@@ -7,4 +7,4 @@ layout: home
 
 Here, I would like to include an image of myself
 
-<img src="./headshot.jpg" alt="A photo of me">
+<img src="./headshot.jpg" alt="A photo of me" width="256" height="256">
