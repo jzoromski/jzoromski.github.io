@@ -12,4 +12,4 @@ Can I link to [M2](http://www2.macaulay2.com/Macaulay2/)?
 
 How about an image?
 
-<img src="./13_22b_1.png">
+<img src="./13_22b_1.PNG" alt="Bible commentary">
