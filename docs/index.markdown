@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Here, I would like to include an image of myself
+
+<img src="./13_22b_1.PNG" alt="Bible commentary">
