@@ -11,7 +11,7 @@ Teaching Assistant:
   <li>Fall 2021 Honors Calculus I
   <li>Spring 2023 Honors Calculus II
   <li>Fall 2023 Calculus 3 - Head TA
- <\ul>
+
 
 Teaching:
 Spring '22, Summer '22, Fall '22 Elements of Calculus
