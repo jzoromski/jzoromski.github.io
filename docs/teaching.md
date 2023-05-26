@@ -14,4 +14,5 @@ Teaching Assistant:
 
 
 Teaching:
-Spring '22, Summer '22, Fall '22 Elements of Calculus
+<ul>
+  <li> Spring '22, Summer '22, Fall '22 Elements of Calculus
