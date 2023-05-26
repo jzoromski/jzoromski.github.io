@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-email: <a href = "mailto: jzoromsk@nd.edu">Send Email</a>
+email: <a href = "mailto: jzoromsk@nd.edu"> </a>
