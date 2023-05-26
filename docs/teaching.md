@@ -17,3 +17,8 @@ Teaching:
 <ul>
   <li>Elements of Calculus: Spring '22, Summer '22, Fall '22</li>
 </ul>
+
+Awards and Certifications:
+<ul>
+  <li>Kaneb Center for Teaching and Excellence Outstanding Graduate Student Teacher Award - Academic Year 2022-2023</li>
+</ul>
