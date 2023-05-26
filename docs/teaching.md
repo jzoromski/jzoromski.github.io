@@ -10,7 +10,7 @@ Teaching Assistant:
   <li>Spring 2021 Calculus B
   <li>Fall 2021 Honors Calculus I
   <li>Spring 2023 Honors Calculus II
-  <li>Fall 2023 Calculus 3 - Head TA
+  <li>Fall 2023 Calculus 3 - Head TA<\ul>
 
 
 Teaching:
