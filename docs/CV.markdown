@@ -3,5 +3,5 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<a src="./MathCV.pdf">here</a>
+<p> A copy of my Curriculum Vitae can be found <a src="./MathCV.pdf">here</a> </p>
   
