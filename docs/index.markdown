@@ -25,5 +25,5 @@ Talks:
 
 Posters:
 <ul>
-  <li>"A Multigraded S_n-equivariant Infinite Resolution". Presented at GAeL XXX, University of Warwick, UK, 07/03/2023, view here </li>
+  <li>"A Multigraded S_n-equivariant Infinite Resolution". Presented at GAeL XXX, University of Warwick, UK, 07/03/2023, view <a href="/.pdf">here</a> </li>
 </ul>
