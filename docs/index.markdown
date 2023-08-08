@@ -22,4 +22,8 @@ Talks:
   <li>"The History of Calculus". Graduate Student Seminar, University of Notre Dame, 1/24/2023</li>
   <li>"Infinite Minimal Free Resolutions". Graduate Student Seminar, University of Notre Dame, 10/3/2022</li>
 </ul>
-  
+
+Posters:
+<ul>
+  <li>"A Multigraded S_n-equivariant Infinite Resolution". Presented at GAeL XXX, University of Warwick, UK, 07/03/2023, view here </li>
+</ul>
