@@ -18,6 +18,7 @@ Publications:
 
 Talks:
 <ul>
+  <li>"A History of Calculus for Instructors". Graduate Student Seminar, University of Notre Dame, 11/27/2023, Slides can be found <a href="/HistoryOfCalc.pdf">here</a>
   <li>"Ideals With Linear Quotients". Graduate Student Algebra Seminar, University of Notre Dame, 4/24/2023</li>
   <li>"The History of Calculus". Graduate Student Seminar, University of Notre Dame, 1/24/2023</li>
   <li>"Infinite Minimal Free Resolutions". Graduate Student Seminar, University of Notre Dame, 10/3/2022</li>
