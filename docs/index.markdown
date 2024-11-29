@@ -6,7 +6,7 @@ layout: home
 ---
 <img src="./headshot.jpg" alt="A photo of me" width="256" height="256">
 
-My name is Jacob Zoromski, and I am a PhD candidate in Mathematics at the University of Notre Dame. I study commutative algebra and algebraic geometry, and I have a special interest in using computation to study infinite free resolutions. My advisor is Claudiu Raicu.
+My name is Jacob Zoromski, and I am a PhD candidate in Mathematics at the University of Notre Dame. I study commutative algebra and algebraic geometry, and I have a special interest in using representation theory, combinatorics, and computation to study free resolutions. My advisor is Claudiu Raicu.
 
 email: <a href = "mailto: abc@example.com">jzoromsk@nd.edu</a>
 
@@ -24,6 +24,7 @@ On the arXiv:
 
 Talks:
 <ul>
+  <li>"Monomial Cycles in Koszul Homology". Poster presentation, ALGECOM XXIV, University of Michigan, 11/09/2024, Poster can be found <a href="/MonomialCyclesPoster.pdf">here</a>
   <li>"A History of Calculus for Instructors". Graduate Student Seminar, University of Notre Dame, 11/27/2023, Slides can be found <a href="/HistoryOfCalc.pdf">here</a>
   <li>"Ideals With Linear Quotients". Graduate Student Algebra Seminar, University of Notre Dame, 4/24/2023</li>
   <li>"The History of Calculus". Graduate Student Seminar, University of Notre Dame, 1/24/2023</li>
