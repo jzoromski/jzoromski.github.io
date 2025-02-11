@@ -18,7 +18,7 @@ Publications:
 
 On the arXiv:
 <ul>
-  <li><b>Equivariant Syzygies of the Ideal of 2 x 2 Permanents of a 2 x n Matrix</b>. 
+  <li><b>Equivariant Syzygies of the Ideal of 2 x 2 Permanents of a 2 x n Matrix</b> (<a href="https://arxiv.org/abs/2502.05358">link</a>). 
     <p> We describe the equivariant syzygies of the ideal of $2 \times 2$ permanents of a generic $2 \times n$ matrix under its natural symmetric and torus group actions. Our proof gives us a new method of finding the Betti numbers of this ideal, which were first described by Gesmundo, Huang, Schenck, and Weyman.</p></li>
 </ul>
 
