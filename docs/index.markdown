@@ -6,9 +6,9 @@ layout: home
 ---
 <img src="./headshot.jpg" alt="A photo of me" width="256" height="256">
 
-My name is Jacob Zoromski, and I am a PhD candidate in Mathematics at the University of Notre Dame, expected to graduate May 2025. I study commutative algebra and algebraic geometry, and I have a special interest in using representation theory, combinatorics, and computation to study free resolutions. My advisor is Claudiu Raicu.
+My name is Jacob Zoromski, and I am a Visiting Assistant Professor at the University of Scranton. I study commutative algebra and algebraic geometry, and I have a special interest in using representation theory, combinatorics, and computation to study free resolutions. I received my PhD in 2025 at the University of Notre Dame under the direction of Claudiu Raicu.
 
-email: <a href = "mailto: jzoromsk@nd.edu">jzoromsk@nd.edu</a>
+email: <a href = "mailto: jacob.zoromski@gmail.com">jacob.zoromski@gmail.com</a>
 
 Publications:
 <ul>
