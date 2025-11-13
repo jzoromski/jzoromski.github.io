@@ -8,7 +8,9 @@ layout: home
 
 My name is Jacob Zoromski, and I am a Visiting Assistant Professor at the University of Scranton. I study commutative algebra and algebraic geometry, and I have a special interest in using representation theory, combinatorics, and computation to study free resolutions. I received my PhD in 2025 at the University of Notre Dame under the direction of Claudiu Raicu.
 
-email: <a href = "mailto: jacob.zoromski@gmail.com">jacob.zoromski@gmail.com</a>
+email: <a href = "mailto: jacob.zoromski@scranton.edu">jacob.zoromski@scranton.edu</a>
+
+Dissertation: "Multigraded and Symmetric Syzygies" - May 2025 (<a href="https://curate.nd.edu/articles/dataset/Multigraded_and_Symmetric_Syzygies/28786148">link</a>)
 
 Publications:
 <ul>
@@ -31,7 +33,7 @@ On the arXiv:
 
 Talks:
 <ul>
-  <li>Invited Speaker – AMS Spring Central Sectional Meeting Special Session on “Algebraic and Homological Perspectives with a view towards Geometry”, University of Kansas, 3/29/2025</li>
+  <li>Invited Speaker – AMS Spring Central Sectional Meeting Special Session on “Algebraic and Homological Perspectives with a view towards Geometry”, University of Kansas, 3/29/2025. Slides can be found <a href="/Equivariant2nTalk.pdf">here</a> </li>
   <li>"Monomial Cycles in Koszul Homology". Poster presentation, ALGECOM XXIV, University of Michigan, 11/09/2024, Poster can be found <a href="/MonomialCyclesPoster.pdf">here</a>
   <li>"A History of Calculus for Instructors". Graduate Student Seminar, University of Notre Dame, 11/27/2023, Slides can be found <a href="/HistoryOfCalc.pdf">here</a>
   <li>"Ideals With Linear Quotients". Graduate Student Algebra Seminar, University of Notre Dame, 4/24/2023</li>
