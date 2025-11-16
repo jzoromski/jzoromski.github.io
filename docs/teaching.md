@@ -4,18 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Teaching Assistant:
-<ul>
-  <li>Calculus A: Fall '20</li>
-  <li>Calculus B: Spring '21</li>
-  <li>Honors Calculus I: Fall '21</li>
-  <li>Honors Calculus II: Spring '23</li>
-  <li>Calculus 3: Fall '23 - Head TA</li>
-  <li>Principles of Calculus: Fall '24</li>
-</ul>
-
 Teaching:
 <ul>
+  <li>Calculus I: Spring '26</li>
+  <li>College Algebra: Fall '25, Spring '26</li>
+  <li>Calculus II: Fall '25</li>
+  <li>Discrete Mathematics: Fall '24 </li>
   <li>Elements of Calculus: Spring '22, Summer '22, Fall '22</li>
 </ul>
 
